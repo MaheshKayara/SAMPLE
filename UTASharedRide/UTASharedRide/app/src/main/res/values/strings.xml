@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UTASharedRide</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LOGIN</string>
+    <string name="login_title">LOGIN</string>
+    <string name="email_title">UTA Email Id</string>
+    <string name="register_title">Register</string>
+    <string name="pwd">Password</string>
+    <string name="c_pwd">Confirm Password</string>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\riju\AndroidStudioProjects\UTASharedRide\app\libs\android-async-http-1.4.9.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="C:\Users\riju\AndroidStudioProjects\UTASharedRide\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.9-a9dc353882959fba55b0662faf89c27aa1b1f42c.jar" />
+    </item>
+    <item
+        jar="C:\Users\riju\AndroidStudioProjects\UTASharedRide\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\riju\AndroidStudioProjects\UTASharedRide\app\build\intermediates\pre-dexed\debug\classes-7652ccf8ef21d0dd3162f6573ac7b4828fc650ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\riju\AndroidStudioProjects\UTASharedRide\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\riju\AndroidStudioProjects\UTASharedRide\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-7d9cd265ac015bbbf2d198c1c674ab9bdd2fed2b.jar" />
+    </item>
+    <item
+        jar="C:\Users\riju\AndroidStudioProjects\UTASharedRide\app\build\intermediates\exploded-aar\com.android.support\design\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="C:\Users\riju\AndroidStudioProjects\UTASharedRide\app\build\intermediates\pre-dexed\debug\classes-1272cf2599f357bf0836fbf2d3731b98241ee129.jar" />
+    </item>
+    <item
+        jar="C:\Users\riju\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\riju\AndroidStudioProjects\UTASharedRide\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-ac86a49a3a64abed90fe2d869e35afb552214e83.jar" />
+    </item>
+    <item
+        jar="C:\Users\riju\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.4.1.1\c8d96f6fd2bcc179c312da33ee670a71188cc60d\httpclient-4.4.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c8d96f6fd2bcc179c312da33ee670a71188cc60d">
+        <dex dex="C:\Users\riju\AndroidStudioProjects\UTASharedRide\app\build\intermediates\pre-dexed\debug\httpclient-4.4.1.1-ab220fbaad7b7617c6283defdecef868c5140bba.jar" />
+    </item>
+    <item
+        jar="C:\Users\riju\AndroidStudioProjects\UTASharedRide\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\riju\AndroidStudioProjects\UTASharedRide\app\build\intermediates\pre-dexed\debug\classes-67a8d999d626716ad561c6de37045d1570b1c5f2.jar" />
+    </item>
+
+</items>
